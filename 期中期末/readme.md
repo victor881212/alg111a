@@ -4,7 +4,7 @@
 ---
 期中
 ---
-期中為backpack problem
+期中為backpack problem/n
 依據 '商品', '商品價格 ','商品重量','商品數量'
 使用貪婪和遞迴完成
 
